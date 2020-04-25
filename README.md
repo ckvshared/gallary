@@ -1,1 +1,1 @@
-# gallary
+# gallery
